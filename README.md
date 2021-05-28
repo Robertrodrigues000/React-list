@@ -1,7 +1,7 @@
-<h1 align="center">Nome do Projeto</h1>
+<h1 align="center">Lista de Tarefas</h1>
 
 ## Descrição do Projeto
-<p align="center">Layout de lista de tarefas com React</p>
+Layout de lista de tarefas com React
 
 Treinamento de design simples com react.
 Tarefas com cores diferentes.
